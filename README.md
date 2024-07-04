@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HemantKhandade
 - 👀 I’m interested in enterprise architectres and telecom
-- 🌱 I’m currently learning to build multi-cloud applications
+- 🌱 I’m currently working AI applications
 - 💞️ I’m looking to collaborate on cloud apps
 - 📫 You can reach me at hvlk369@gmail.com
 
